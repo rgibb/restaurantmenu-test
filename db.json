@@ -1,0 +1,55 @@
+{"foods": [
+  {
+    "id":1,
+    "type": "Appetizer",
+    "food": "Mozerella Sticks - 8",
+    "price": 7.99,
+    "sides": "Marinara Sauce",
+    "calories": "Calories: 864",
+    "image" : "mozzarellasticks.jpg"
+  },
+  {
+    "id":2,
+    "type": "Appetizer",
+    "food": "Buffalo Wings",
+    "price": 14.99,
+    "sides": "Blue Cheese, Carrots, Celery",
+    "calories": "Calories: 2,109",
+    "image" : "buffwings.webp"
+  },
+  {
+  "id":3,
+  "type": "Entree",
+  "food": "Pizza",
+  "price": 12.99,
+  "sides": "Pepperoni, Chicken, Bacon, Broccoli",
+  "calories": "Calories: 2,269",
+  "image" : "pizza.jpg"
+},
+{
+  "id":4,
+  "type": "Entree",
+  "food": "Cheese Steak",
+  "price": 16.99,
+  "sides": "French Fries",
+  "calories": "Calories: 1,320",
+  "image" : "cheesesteak.jpg"
+},
+{
+  "id":5,
+  "type": "Dessert",
+  "food": "Zeppoles",
+  "price": 12.50,
+  "sides": "None",
+  "calories": "Calories: 864",
+  "image" : "zeppole.jpg"
+},
+{
+  "id":6,
+  "type": "Beverage",
+  "food": "Ice Tea",
+  "price": 2.99,
+  "sides": "Sweetened, unsweetened",
+  "calories": "Calories: 110",
+  "image" : "icetea.jpg"
+}]}
